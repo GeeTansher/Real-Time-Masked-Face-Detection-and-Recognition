@@ -5,7 +5,7 @@
      
 •   I have constructed and trained the model using Tensorflow, Keras, VGGNET-16 Transfer Learning, OpenCV and CaffeModels.
 
-•   I have prepared my own database containing faces of 12 persons and I have also made a seperate program to process the data for usage.
+•   I have prepared my own database containing faces of 12 persons and I have also made a separate program to process the data for usage.
 
 •   Achieved an accuracy of 85% on testing data and an accuracy of 98% on training data.
 
