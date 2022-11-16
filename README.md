@@ -1,19 +1,19 @@
 # Masked-Face-Recognition
 
-•   Amidst the Corona Time when everyone was forced to wear a mask all the existing face detection and recognition models become      
-     useless,  to overcome this situation I have built a mask detector and masked face recogniser to help the pace of society.
-     
-•   I have constructed and trained the model using Tensorflow, Keras, VGGNET-16 Transfer Learning, OpenCV and CaffeModels.
+• Amidst "Corona Time," when everyone was forced to wear a mask, all the existing face detection and recognition models became useless. To overcome this situation, I have built a mask detector and a masked face recognizer to help the pace of society.
 
-•   I have prepared my own database containing faces of 12 persons and I have also made a separate program to process the data for usage.
+• I have constructed and trained the model using Tensorflow, Keras, VGGNET-16 Transfer Learning, OpenCV, and CaffeModels.
 
-•   Achieved an accuracy of 85% on testing data and an accuracy of 98% on training data.
+• I have prepared my own database containing the faces of 12 people, and I have also made a separate program to process the data for usage.
 
-•   I have also prepared a program to see the recognition in real time camera.
+• Achieved an accuracy of 85% on testing data and an accuracy of 98% on training data.
 
-For the convenience i have made two files ('FileToSeeTraining', 'FileToSeeRealTimeResult' - to see training process and real time recognition)
-For accesing the dataset and model files (.h5) i have used for this model please go the drive link below.
+• I have also prepared a program to see the recognition in real time.
+
+I've created two files ('FileToSeeTraining.ipynb' and 'FileToSeeRealTimeResult.ipynb') for your convenience to see the training process and real-time recognition.
+
+Please see the drive link below to access the dataset and model files (.h5) I used for this model.
 
 Link - https://drive.google.com/drive/folders/1Bf_CcX3HkLmNBoUiu5NLhNnnLkt1k4z0?usp=sharing
 
-You are requested to give any suggestions to improve the model or any other feature.
+You are asked to make improvements to the model or any other feature.
